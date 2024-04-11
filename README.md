@@ -13,7 +13,7 @@ Drag and move objects in the 3D space.
 1. Place the corner blocks any wher in the plane by using double click.
    ![image](https://github.com/Jerald-Golden/THREEJS-SPLINE-EDITOR-WITH-JSON-STORAGE/assets/124641613/c3c0baab-76c5-4dd9-a0ec-b836233cd9e7)
 
-2. Connect any two corners by holding left shift + right click on any two of them.(NOTICE: Line connection can only be give from a corner block to another corner block.)
+2. Connect any two corners by holding left shift + right click on any two of them.(NOTICE: Line connection can only be created from a corner block to another corner block.)
    ![image](https://github.com/Jerald-Golden/THREEJS-SPLINE-EDITOR-WITH-JSON-STORAGE/assets/124641613/6b65a857-f639-4dcd-aafb-35b619d99f3b)
 
 3. Now choose the curve point and place any where on the line by using double click.(NOTICE: the curve point can only be placed in an line.)
