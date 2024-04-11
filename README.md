@@ -1,6 +1,6 @@
 # Three.js Interactive Spline Editor With JSON Storage
 
-This project demonstrates how to 3D splen editor using Three.js. It allows you to place and manipulate objects in a 3D space, connect them with lines, and more.
+This project demonstrates how to 3D spline editor using Three.js. It allows you to place and manipulate objects in a 3D space, connect them with lines, and more.
 
 # Features
 
