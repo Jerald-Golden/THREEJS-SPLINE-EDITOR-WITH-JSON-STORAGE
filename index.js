@@ -2,6 +2,7 @@ const express = require("express");
 const app = express();
 const bodyParser = require("body-parser");
 const fs = require("fs");
+app.set("view engine", "ejs");
 app.use(express.static("App"));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
