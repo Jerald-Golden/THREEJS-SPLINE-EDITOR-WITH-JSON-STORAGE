@@ -2,12 +2,12 @@ const express = require("express");
 const app = express();
 const bodyParser = require("body-parser");
 const fs = require("fs");
-app.use(express.static('public'));
+app.use(express.static("App"));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
 app.get("/", (req, res) => {
-    res.sendFile(__dirname + "/App/index.html");
+    res.render("index");
 });
 
 var DataPath = "Objects.json";
