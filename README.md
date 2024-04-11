@@ -34,7 +34,3 @@ Drag and move objects in the 3D space.
 Three.js (v0.160.0): https://threejs.org/
 
 jQuery (v3.5.1): https://jquery.com/
-
-# Demo
-
-You can see a live demo of this project [here]().
